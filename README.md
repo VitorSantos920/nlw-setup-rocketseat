@@ -18,10 +18,8 @@ Este projeto foi construído utilizando as seguintes tecnologias:
 - Figma: <b><a href="https://www.figma.com/file/bsFh7fuufkyiAYxkFYD1nd/Habits-(e)-(Community)?node-id=75%3A128&t=KknMCJNdeAF3QHUz-0">Visualização</a></b>
 </div>
 
-##
-
----
-
-## View
+## View 🖥
 
 <img src=".github/view-project.png">
+
+[Visite o projeto online](https://vitorsantos920.github.io/nlw-setup-rocketseat)
