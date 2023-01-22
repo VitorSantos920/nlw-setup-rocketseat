@@ -24,4 +24,4 @@ Este projeto foi construído utilizando as seguintes tecnologias:
 
 ## View
 
-<img src="assets/readme-img/view-project.png">
+<img src=".github/view-project.png">
